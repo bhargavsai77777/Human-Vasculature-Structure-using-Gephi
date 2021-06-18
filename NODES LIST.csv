@@ -1,0 +1,918 @@
+nodes,ID
+heart chamber,1
+lung,2
+abdominal cavity;thoracic cavity,3
+thoracic cavity,4
+neck,5
+head,6
+ear,7
+vagina,8
+face,9
+thyroid gland,10
+brain,11
+pituitary gland,12
+eye,13
+abdominal cavity,14
+liver,15
+stomach;small intestine,16
+small intestine,17
+stomach,18
+pancreas;small intestine,19
+esophagus,20
+spleen,21
+pancreas,22
+pelvis,23
+leg,24
+abdominal wall,25
+foot,26
+uterus,27
+penis,28
+urinary bladder,29
+clitoris,30
+scrotum,31
+large intestine,32
+diaphragm,33
+adrenal gland,34
+ovary,35
+kidney,36
+testis,37
+spinal cord,38
+thoracic wall,39
+heart,40
+shoulder,41
+arm,42
+hand,43
+thymus,44
+brainstem,45
+cerebellum,46
+rectum,47
+larynx,48
+nose,49
+left atrium,50
+left inferior pulmonary vein,51
+left superior pulmonary vein,52
+right inferior pulmonary vein,53
+right superior pulmonary vein,54
+left ventricle,55
+aorta,56
+ascending aorta,57
+aortic arch,58
+brachiocephalic artery,59
+right common carotid artery,60
+right subclavian artery,61
+common carotid artery,62
+external carotid artery,63
+ascending pharyngeal artery,64
+clival branch of ascending pharyngeal artery,65
+inferior tympanic artery,66
+neuromeningeal trunk,67
+hypoglossal branch of ascending pharyngeal artery,68
+jugular branch of ascending pharyngeal artery,69
+odontoid arcade,70
+posterior meningeal artery,71
+pharyngeal trunk,72
+eustachian branch of ascending pharyngeal artery,73
+inferior pharyngeal artery,74
+middle pharyngeal artery,75
+superior pharyngeal artery,76
+pterygovaginal artery,77
+facial artery,78
+angular artery,79
+ascending palatine artery,80
+glandular branches of facial artery,81
+inferior labial artery,82
+lateral nasal artery,83
+submental artery,84
+superior labial artery,85
+tonsillar branch of facial artery,86
+lingual artery,87
+deep lingual artery,88
+dorsal lingual artery,89
+sublingual artery,90
+maxillary artery,91
+accessory meningeal artery,92
+alveolar artery,93
+anterior deep temporal artery,94
+anterior tympanic artery,95
+artery of pterygoid canal,96
+buccal artery,97
+deep auricular artery,98
+descending palatine artery,99
+greater palatine artery,100
+lesser palatine artery,101
+posterior palatine artery,102
+inferior alveolar artery,103
+incisor artery,104
+mental artery,105
+infraorbital artery,106
+anterior superior alveolar artery,107
+masseteric artery,108
+middle meningeal artery,109
+pharyngeal branch of maxillary artery,110
+posterior deep temporal artery,111
+posterior superior alveolar artery,112
+pterygoid branches of maxillary artery,113
+sphenopalatine artery,114
+occipital artery,115
+auricular branch of occipital artery,116
+descending branch of occipital artery,117
+mastoid branch of occipital artery,118
+meningeal branch of occipital artery,119
+muscular branch of occipital artery,120
+sternocleidomastoid artery,121
+stylomastoid branch of occipital artery,122
+posterior auricular artery,123
+auricular branch of posterior auricular artery,124
+occipital branch of posterior auricular artery,125
+parotid branch of posterior auricular artery,126
+posterior tympanic artery,127
+stapedial artery,128
+stylomastoid artery,129
+superficial temporal artery,130
+anterior auricular branch of superficial temporal artery,131
+frontal branch of superficial temporal artery,132
+middle temporal artery #2,133
+posterior temporal artery,134
+transverse facial artery,135
+zygomatico-orbital artery,136
+superior thyroid artery,137
+cricothyroid artery,138
+infrahyoid artery,139
+sternocleidomastoid branch of superior thyroid artery,140
+superior laryngeal artery,141
+internal carotid artery,142
+anterior cerebral artery,143
+anterior communicating artery,144
+anterior internal frontal artery,145
+callosomarginal artery,146
+frontopolar artery,147
+inferior parietal artery,148
+medial lenticulostriate artery,149
+middle internal frontal artery,150
+orbitofrontal branch of anterior cerebral artery,151
+paracentral artery,152
+pericallosal artery,153
+posterior internal frontal artery,154
+recurrent artery of Heubner,155
+superior parietal artery,156
+anterior choroidal artery,157
+caroticotympanic artery,158
+cavernous segment,159
+meningohypophysial artery,160
+dorsal meningeal artery,161
+inferior hypophysial artery,162
+tentorial artery,163
+dural artery,164
+inferolateral trunk of internal carotid artery,165
+middle cerebral artery,166
+angular branch of middle cerebral artery,167
+anterior parietal artery,168
+anterior temporal artery,169
+lateral frontobasal artery,170
+lateral lenticulostriate artery,171
+middle temporal artery,172
+orbitofrontal branch of middle cerebral artery,173
+posterior parietal artery,174
+pre-Rolandic artery,175
+prefrontal artery,176
+Rolandic artery,177
+ophthalmic artery,178
+anterior ciliary artery,179
+anterior ethmoidal artery,180
+anterior meningeal artery,181
+central retinal artery,182
+dorsal nasal artery,183
+hyaloid artery,184
+lacrimal artery,185
+lateral palpebral artery,186
+recurrent meningeal artery,187
+zygomaticofacial artery,188
+zygomaticotemporal artery,189
+long posterior ciliary arteries,190
+medial palpebral artery,191
+posterior ethmoidal artery,192
+short posterior ciliary arteries,193
+capillary layer of choroid,194
+supraorbital artery,195
+supratrochlear artery,196
+posterior communicating artery,197
+superior hypophysial artery,198
+vidian artery,199
+descending aorta,200
+descending thoracic aorta,201
+abdominal aorta,202
+celiac artery,203
+common hepatic artery,204
+gastroduodenal artery,205
+retroduodenal artery,206
+right gastroepiploic artery,207
+superior pancreaticoduodenal artery,208
+anterior superior pancreaticoduodenal artery,209
+posterior superior pancreaticoduodenal artery,210
+supraduodenal artery,211
+proper hepatic artery,212
+left hepatic artery,213
+right hepatic artery,214
+anterior segmental hepatic artery,215
+cystic artery,216
+posterior segmental hepatic artery,217
+right artery of caudate lobe,218
+right gastric artery,219
+left gastric artery,220
+esophageal branches of left gastric artery,221
+splenic artery,222
+dorsal pancreatic artery,223
+greater pancreatic artery,224
+left gastroepiploic artery,225
+short gastric artery,226
+spleen trabecular artery,227
+spleen central arteriole,228
+penicillar arteriole,229
+transverse pancreatic artery,230
+common iliac artery,231
+external iliac artery,232
+common femoral artery,233
+deep external pudendal artery,234
+deep femoral artery,235
+lateral femoral circumflex artery,236
+ascending branch of lateral femoral circumflex artery,237
+descending branch of lateral femoral circumflex artery,238
+medial circumflex femoral artery,239
+ascending branch of medial circumflex femoral artery,240
+descending branch of medial circumflex femoral artery,241
+perforating artery,242
+superficial circumflex iliac artery,243
+superficial epigastric artery,244
+superficial external pudendal artery,245
+superficial femoral artery,246
+descending genicular artery,247
+articular branch of descending genicular artery,248
+saphenous branch of descending genicular artery,249
+popliteal artery,250
+anterior tibial artery,251
+anterior lateral malleolar artery,252
+lateral supramalleolar artery,253
+anterior medial malleolar artery,254
+anterior tibial recurrent artery,255
+dorsalis pedis artery,256
+arcuate artery of foot,257
+fourth dorsal metatarsal artery,258
+dorsal digital artery of foot #2,259
+second dorsal metatarsal artery,260
+dorsal digital artery of foot #3,261
+third dorsal metatarsal artery,262
+dorsal digital artery of foot #4,263
+deep plantar artery,264
+first dorsal metatarsal artery,265
+dorsal digital artery of foot,266
+lateral tarsal artery,267
+medial tarsal artery,268
+posterior tibial recurrent artery,269
+lateral inferior genicular artery,270
+lateral superior genicular artery,271
+medial inferior genicular artery,272
+medial superior genicular artery,273
+middle genicular artery,274
+sural artery,275
+tibial-peroneal trunk,276
+peroneal artery,277
+calcaneal branch of fibular artery,278
+communicating branch of fibular artery,279
+perforating branch of fibular artery,280
+posterior tibial artery,281
+circumflex fibular artery,282
+lateral plantar artery,283
+plantar arch,284
+plantar metatarsal artery,285
+common plantar digital artery,286
+medial plantar artery,287
+deep circumflex iliac artery,288
+inferior epigastric artery,289
+artery of round ligament of uterus,290
+cremasteric artery,291
+pubic branch of inferior epigastric artery,292
+internal iliac artery,293
+anterior division of internal iliac artery,294
+inferior gluteal artery,295
+inferior vesical artery,296
+prostatic artery,297
+middle rectal artery #2,298
+seminal vesicle arterial branches of prostatic artery,299
+internal pudendal artery,300
+artery of bulb of vestibule,301
+common penile artery,302
+bulbourethral artery,303
+cavernosal artery,304
+deep artery of penis,305
+helicine artery of penis,306
+dorsal artery of penis,307
+deep artery of clitoris,308
+dorsal artery of clitoris,309
+inferior rectal artery,310
+perineal artery,311
+transverse perineal artery,312
+posterior labial artery,313
+posterior scrotal artery,314
+vestibular bulb artery,315
+middle rectal artery,316
+obturator artery,317
+acetabular branch of obturator artery,318
+anterior branch of obturator artery,319
+posterior branch of obturator artery,320
+superior vesical artery,321
+middle vesical artery,322
+umbilical artery,323
+deferent duct artery,324
+uterine artery,325
+arcuate artery of uterus,326
+radial artery of uterus,327
+uterine spiral artery,328
+vaginal artery,329
+posterior division of internal iliac artery,330
+iliolumbar artery,331
+iliac branch of iliolumbar artery,332
+lumbar branch of iliolumbar artery,333
+lateral sacral artery,334
+superior gluteal artery,335
+deep superior gluteal artery,336
+superficial superior gluteal artery,337
+inferior mesenteric artery,338
+left colic artery,339
+ascending branch of left colic artery,340
+marginal artery of Drummond,341
+vasa recta of colon,342
+long branch of vasa recta of colon,343
+short branch of vasa recta of colon,344
+meandering mesenteric artery,345
+descending branch of left colic artery,346
+sigmoid artery,347
+superior rectal artery,348
+inferior phrenic artery,349
+superior suprarenal artery,350
+left common iliac artery,351
+left inferior phrenic artery,352
+left lumbar artery 1,353
+left lumbar artery 2,354
+left lumbar artery 3,355
+left lumbar artery 4,356
+left lumbar artery 5,357
+left middle suprarenal artery,358
+left ovarian artery,359
+left renal artery,360
+left testicular artery,361
+lumbar artery,362
+segmental spinal artery #3,363
+median sacral artery,364
+middle suprarenal artery,365
+ovarian artery,366
+renal artery,367
+anterior inferior segmental renal artery,368
+anterior superior segmental renal artery,369
+inferior segmental renal artery,370
+inferior suprarenal artery,371
+posterior segmental renal artery,372
+segmental renal artery,373
+interlobar renal artery,374
+arcuate renal artery,375
+interlobular renal artery,376
+renal afferent arteriole,377
+glomerular capillary,378
+renal efferent arteriole,379
+peritubular capillary,380
+vasa recta of kidney,381
+superior segmental renal artery,382
+ureteric segment of renal artery,383
+right common iliac artery,384
+right inferior phrenic artery,385
+right lumbar artery 1,386
+right lumbar artery 2,387
+right lumbar artery 3,388
+right lumbar artery 4,389
+right lumbar artery 5,390
+right middle suprarenal artery,391
+right ovarian artery,392
+right renal artery,393
+right testicular artery,394
+superior mesenteric artery,395
+ileal artery,396
+vasa recta of ileum,397
+ileocolic artery,398
+colic branch of ileocolic artery,399
+anterior cecal artery,400
+posterior cecal artery,401
+ileal branch of ileocolic artery,402
+appendicular artery,403
+inferior pancreaticoduodenal artery,404
+anterior inferior pancreaticoduodenal artery,405
+posterior inferior pancreaticoduodenal artery,406
+jejunal branches,407
+jejunal arcade,408
+vasa recta of jejunum,409
+middle colic artery,410
+right colic artery,411
+testicular artery,412
+esophageal artery,413
+inferior left bronchial artery,414
+left first superior phrenic artery,415
+left posterior intercostal artery 10,416
+left posterior intercostal artery 11,417
+left posterior intercostal artery 3,418
+left posterior intercostal artery 4,419
+left posterior intercostal artery 5,420
+left posterior intercostal artery 6,421
+left posterior intercostal artery 7,422
+left posterior intercostal artery 8,423
+left posterior intercostal artery 9,424
+left second superior phrenic artery,425
+left subcostal artery,426
+pericardial artery,427
+posterior intercostal artery,428
+segmental spinal artery #4,429
+right bronchial artery,430
+right first superior phrenic artery,431
+right posterior intercostal artery 10,432
+right posterior intercostal artery 11,433
+right posterior intercostal artery 3,434
+right posterior intercostal artery 4,435
+right posterior intercostal artery 5,436
+right posterior intercostal artery 6,437
+right posterior intercostal artery 7,438
+right posterior intercostal artery 8,439
+right posterior intercostal artery 9,440
+right second superior phrenic artery,441
+right subcostal artery,442
+subcostal artery,443
+superior left bronchial artery,444
+superior phrenic artery,445
+left common carotid artery,446
+left subclavian artery,447
+dorsal scapular artery,448
+subclavian artery,449
+axillary artery,450
+anterior humeral circumflex artery,451
+brachial artery,452
+deep brachial artery,453
+medial collateral artery,454
+radial collateral artery,455
+inferior ulnar collateral artery,456
+radial artery,457
+dorsal carpal branch of radial artery,458
+dorsal carpal arch,459
+dorsal metacarpal artery,460
+dorsal digital artery of hand,461
+palmar carpal branch of radial artery,462
+deep palmar arch #2,463
+princeps pollicis artery,464
+proper dorsal digital artery of hand,465
+radial recurrent artery,466
+superficial palmar branch of radial artery,467
+superficial palmar arch,468
+common palmar digital artery,469
+proper palmar digital artery,470
+superior ulnar collateral artery,471
+ulnar artery,472
+anterior ulnar recurrent artery,473
+common interosseous artery,474
+anterior interosseous artery,475
+posterior interosseous artery,476
+deep palmar branch of ulnar artery,477
+deep palmar arch,478
+dorsal carpal branch of ulnar artery,479
+dorsal carpal arch #2,480
+median artery,481
+palmar carpal branch of ulnar artery,482
+posterior ulnar recurrent artery,483
+superficial palmar arch #2,484
+lateral thoracic artery,485
+posterior humeral circumflex artery,486
+subscapular artery,487
+circumflex scapular artery,488
+thoracodorsal artery,489
+superior thoracic artery,490
+thoracoacromial artery,491
+costocervical trunk,492
+deep cervical artery,493
+segmental spinal artery #2,494
+supreme intercostal artery,495
+posterior intercostal artery 1,496
+posterior intercostal artery 2,497
+internal thoracic artery,498
+anterior intercostal artery,499
+anterior intercostal artery 1,500
+anterior intercostal artery 2,501
+anterior intercostal artery 3,502
+anterior intercostal artery 4,503
+anterior intercostal artery 5,504
+anterior intercostal artery 6,505
+musculophrenic artery,506
+anterior intercostal artery 7,507
+anterior intercostal artery 8,508
+anterior intercostal artery 9,509
+percardiacophrenic artery,510
+perforating branch of internal thoracic artery,511
+medial mammary branch of perforating branch of internal thoracic artery,512
+superior epigastric artery,513
+thymic artery,514
+thyrocervical trunk,515
+inferior thyroid artery,516
+ascending cervical artery,517
+segmental spinal artery,518
+anterior radicular artery,519
+anterior segmental medullary artery,520
+artery of Adamkiewicz,521
+posterior radicular artery,522
+posterior segmental medullary artery,523
+inferior laryngeal artery,524
+pharyngeal branches of inferior thyroid artery,525
+tracheal branches of inferior thyroid artery,526
+suprascapular artery,527
+transverse cervical artery,528
+deep branch of transverse cervical artery,529
+superficial cervical artery,530
+vertebral artery,531
+anterior spinal artery,532
+sulcal arteries,533
+basilar artery,534
+anterior inferior cerebellar artery,535
+labyrinthine artery,536
+anterior vestibular artery,537
+common cochlear artery,538
+main cochlear artery,539
+posterior vestibular artery,540
+spiral modiolar artery,541
+vestibulocochlear artery,542
+paramedian artery,543
+pontine artery,544
+posterior cerebral artery,545
+calcarine artery,546
+lateral posterior choroidal artery,547
+medial occipital artery,548
+medial posterior choroidal artery,549
+mesencephalic artery,550
+thalamogeniculate artery,551
+thalamoperforating artery,552
+superior cerebellar artery,553
+posterior inferior cerebellar artery,554
+posterior spinal artery,555
+segmental spinal artery #5,556
+left coronary artery,557
+left anterior descending artery,558
+diagonal branch of left anterior descending artery,559
+diagonal branch of left anterior descending artery 1,560
+diagonal branch of left anterior descending artery 2,561
+left circumflex artery,562
+obtuse marginal artery 1,563
+obtuse marginal artery 2,564
+posterolateral artery,565
+right coronary artery,566
+atrioventicular nodal artery,567
+conus artery,568
+posterior descending artery,569
+right marginal artery,570
+sinoatrial nodal artery,571
+right atrium,572
+coronary sinus,573
+great cardiac vein,574
+left marginal vein,575
+middle cardiac vein,576
+small cardiac vein,577
+inferior vena cava,578
+common iliac vein,579
+external iliac vein,580
+deep circumflex iliac vein,581
+femoral vein,582
+great saphenous vein,583
+anterior accessory saphenous vein,584
+deep external pudendal vein,585
+external pudendal vein,586
+medial marginal vein,587
+dorsal venous arch of foot #2,588
+posterior accessory saphenous vein,589
+superficial epigastric vein,590
+superficial external pudendal vein,591
+superficial iliac circumflex vein,592
+lateral femoral circumflex vein,593
+medial circumflex femoral vein,594
+popliteal vein,595
+anterior tibial vein,596
+dorsal venous arch of foot,597
+dorsal metatarsal vein,598
+dorsal digital vein of foot,599
+gastrocnemius vein,600
+peroneal vein,601
+soleal vein,602
+posterior tibial vein,603
+lateral plantar vein,604
+plantar venous arch,605
+plantar metatarsal vein,606
+plantar digital vein,607
+medial plantar vein,608
+plantar venous arch #2,609
+soleal vein #2,610
+small saphenous vein,611
+dorsal venous arch of foot #3,612
+lateral marginal vein,613
+vein of genicular venous plexus,614
+inferior epigastric vein,615
+pubic vein,616
+iliolumbar vein,617
+internal iliac vein,618
+deep dorsal vein of clitoris,619
+vesical plexus,620
+deep dorsal vein of penis,621
+inferior gluteal vein,622
+inferior vesical vein,623
+internal pudendal vein,624
+bulbar vein,625
+inferior rectal vein,626
+posterior scrotal vein,627
+lateral sacral vein,628
+middle hemorrhoidal vein,629
+obturator vein,630
+perineal vein,631
+superior gluteal vein,632
+superior vesical vein,633
+uterine vein,634
+uterine venous plexus,635
+vaginal vein,636
+vesical vein,637
+median sacral vein,638
+hepatic vein,639
+central vein of liver,640
+liver sinusoid,641
+hepatic portal vein,642
+cystic vein,643
+inferior vein of Sappey,644
+left gastric vein,645
+paraumbilical vein,646
+posterior superior pancreaticoduodenal vein,647
+right gastric vein,648
+prepyloric vein,649
+splenic vein,650
+inferior mesenteric vein,651
+left colic vein,652
+rectosigmoid vein,653
+sigmoid vein,654
+superior rectal vein,655
+left gastroepiploic vein,656
+pancreatic tributary of splenic vein,657
+spleen trabecular vein,658
+splenic sinusoid,659
+superior mesenteric vein,660
+anterior inferior pancreaticoduodenal vein,661
+ileal vein,662
+ileocolic vein,663
+jejunal vein,664
+middle colic vein,665
+posterior inferior pancreaticoduodenal vein,666
+right colic vein,667
+right gastroepiploic vein,668
+anterior superior pancreaticoduodenal vein,669
+superior vein of Sappey,670
+vein of Burow,671
+left common iliac vein,672
+left hepatic vein,673
+left inferior phrenic vein,674
+left renal vein,675
+left ovarian vein,676
+left suprarenal vein,677
+left testicular vein,678
+lumbar veins,679
+anterior external vertebral venous plexus,680
+intervertebral vein,681
+anterior internal vertebral venous plexus,682
+basivertebral vein,683
+anterior radicular vein,684
+anterior spinal vein,685
+intramedullary radial vein,686
+posterior internal vertebral venous plexus,687
+posterior radicular vein,688
+posterior spinal vein,689
+intramedullary radial vein #2,690
+posterolateral spinal vein,691
+intramedullary radial vein #3,692
+posterior external vertebral venous plexus,693
+middle hepatic vein,694
+renal vein,695
+interlobar renal vein,696
+arcuate renal vein,697
+interlobular renal vein,698
+stellate vein of kidney,699
+straight venules of kidney,700
+right common iliac vein,701
+right hepatic vein,702
+right inferior phrenic vein,703
+right ovarian vein,704
+right renal vein,705
+right suprarenal vein,706
+right testicular vein,707
+pampiniform venous plexus,708
+vein of ductus deferens,709
+superior vena cava,710
+azygos vein,711
+accessory hemiazygos vein,712
+left bronchial vein,713
+left posterior intercostal vein 4,714
+left posterior intercostal vein 5,715
+left posterior intercostal vein 6,716
+left posterior intercostal vein 7,717
+left posterior intercostal vein 8,718
+esophageal vein,719
+hemiazygos vein,720
+left posterior intercostal vein 10,721
+left posterior intercostal vein 11,722
+left posterior intercostal vein 9,723
+left subcostal vein,724
+posterior intercostal vein,725
+anterior external vertebral venous plexus #2,726
+intervertebral vein #2,727
+posterior external vertebral venous plexus #2,728
+right bronchial vein,729
+right posterior intercostal vein 10,730
+right posterior intercostal vein 11,731
+right posterior intercostal vein 5,732
+right posterior intercostal vein 6,733
+right posterior intercostal vein 7,734
+right posterior intercostal vein 8,735
+right posterior intercostal vein 9,736
+right subcostal vein,737
+right superior intercostal vein,738
+right posterior intercostal vein 2,739
+right posterior intercostal vein 3,740
+right posterior intercostal vein 4,741
+superior intercostal vein,742
+superior phrenic vein,743
+brachiocephalic vein,744
+inferior thyroid vein,745
+esophageal vein #2,746
+inferior laryngeal vein,747
+jugular venous arch #2,748
+internal jugular vein,749
+common facial vein,750
+anterior branch of retromandibular vein,751
+retromandibular vein,752
+maxillary vein,753
+pterygoid venous plexus,754
+deep temporal vein,755
+transverse facial vein,756
+infraorbital vein,757
+middle temporal vein,758
+superficial temporal vein,759
+transverse facial vein #2,760
+facial vein,761
+angular vein,762
+external nasal vein,763
+inferior palpebral vein,764
+superior palpebral vein,765
+supraorbital vein,766
+supratrochlear vein,767
+transverse nasal root vein,768
+deep facial vein,769
+inferior labial vein,770
+mental vein,771
+submental vein,772
+superior labial vein,773
+inferior bulb of internal jugular vein,774
+inferior petrosal sinus,775
+cavernous sinus,776
+central retinal vein,777
+tributary of central retinal vein,778
+inferior ophthalmic vein,779
+vorticose vein,780
+superficial middle cerebral vein,781
+sphenopalatine sinus,782
+superior ophthalmic vein,783
+anterior ciliary vein,784
+ethmoidal vein,785
+lacrimal vein,786
+nasofrontal vein,787
+vorticose vein #2,788
+lingual vein,789
+deep lingual vein,790
+dorsal lingual vein,791
+sublingual vein,792
+middle thyroid vein,793
+sigmoid sinus,794
+transverse sinus,795
+confluence of sinuses,796
+occipital sinus,797
+straight sinus,798
+great cerebral vein,799
+basal vein,800
+anterior cerebral vein,801
+deep middle cerebral vein,802
+inferior striate vein,803
+lateral mesencephalic vein,804
+internal cerebral vein,805
+superior choroid vein,806
+superior striate vein,807
+superior thalamostriate vein,808
+inferior sagittal sinus,809
+superior cerebellar vein,810
+superior sagittal sinus,811
+superior anastomotic vein,812
+superior cerebral vein,813
+inferior anastomotic vein,814
+inferior cerebellar vein,815
+inferior cerebral vein,816
+superior petrosal sinus,817
+cavernous sinus #2,818
+superior petrosal vein,819
+vein of vestibular aqueduct,820
+superior bulb of internal jugular vein,821
+superior thyroid vein,822
+glandular venous plexus,823
+superior laryngeal vein,824
+internal thoracic vein,825
+anterior intercostal vein,826
+anterior intercostal vein 1,827
+anterior intercostal vein 2,828
+anterior intercostal vein 3,829
+anterior intercostal vein 4,830
+anterior intercostal vein 5,831
+anterior intercostal vein 6,832
+musculophrenic vein,833
+anterior intercostal vein 7,834
+anterior intercostal vein 8,835
+anterior intercostal vein 9,836
+superior epigastric vein,837
+pericardiacophrenic vein,838
+subclavian vein,839
+axillary vein,840
+basilic vein,841
+dorsal venous network of hand,842
+dorsal metacarpal vein,843
+dorsal digital vein of hand,844
+median antebrachial vein,845
+median cubital vein,846
+brachial vein,847
+radial vein,848
+deep palmar venous arch,849
+ulnar vein,850
+superficial palmar venous arch,851
+common palmar digital vein,852
+proper palmar digital vein,853
+cephalic vein,854
+dorsal venous network of hand #2,855
+circumflex humeral vein,856
+lateral thoracic vein,857
+subscapular vein,858
+thoracoacromial vein,859
+thoracodorsal vein,860
+external jugular vein,861
+anterior jugular vein,862
+jugular venous arch,863
+small thyroid vein,864
+superficial submandibular vein,865
+posterior auricular vein,866
+posterior branch of retromandibular vein,867
+retromandibular vein #2,868
+posterior external jugular vein,869
+suprascapular vein,870
+transverse cervical vein,871
+supreme intercostal vein,872
+vertebral vein,873
+accessory vertebral vein,874
+anterior external vertebral venous plexus #3,875
+anterior vertebral vein,876
+deep cervical vein,877
+suboccipital venous plexus,878
+occipital vein,879
+intervertebral vein #3,880
+posterior external vertebral venous plexus #3,881
+left brachiocephalic vein,882
+left superior intercostal vein,883
+left posterior intercostal vein 2,884
+left posterior intercostal vein 3,885
+thymic vein,886
+right brachiocephalic vein,887
+right ventricle,888
+pulmonary trunk,889
+left pulmonary artery,890
+anterior segmental artery of left lung,891
+apicoposterior segmental artery of left lung,892
+left interlobar pulmonary artery,893
+basal segmental arterial trunk of left lung,894
+anterior basal segmental artery of left lung,895
+lateral basal segmental artery of left lung,896
+medial basal segmental artery of left lung,897
+posterior basal segmental artery of left lung,898
+inferior lingular segmental artery of left lung,899
+superior lingular segmental artery of left lung,900
+superior segmental artery of left lung,901
+segmental pulmonary artery,902
+subsegmental pulmonary artery,903
+right pulmonary artery,904
+right interlobar pulmonary artery,905
+basal segmental arterial trunk of right lung,906
+anterior basal segmental artery of right lung,907
+lateral basal segmental artery of right lung,908
+medial basal segmental artery of right lung,909
+posterior basal segmental artery of right lung,910
+lateral segmental artery of right lung,911
+medial segmental artery of right lung,912
+posterior segmental artery of right lung,913
+superior segmental artery of right lung,914
+truncus anterior of right pulmonary artery,915
+anterior segmental artery of right lung,916
+apical segmental artery of right lung,917
